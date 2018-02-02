@@ -6,4 +6,6 @@ Aufgrund unterschiedlicher Recherche im Internet sind wir schließlich auf das k
 
 # Script Erklärung
 
+![9](https://user-images.githubusercontent.com/31760549/35723142-7f6788f0-07f9-11e8-8d38-842d0f8526b7.png)
+![8](https://user-images.githubusercontent.com/31760549/35723144-7f7f6f6a-07f9-11e8-8c35-8551f5b362fe.png)
 
