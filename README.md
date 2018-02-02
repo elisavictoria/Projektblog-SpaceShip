@@ -15,7 +15,11 @@ Auf dem script kann man neben den Befehlen für das Raumschiff auch ein Script f
 ![6](https://user-images.githubusercontent.com/31760549/35722997-eb4b5976-07f8-11e8-8e65-7d524d0e720e.png)
 
 2. Laser
+
+Den Laser zu programmieren, war ein wenig umfangreicher, als das Spaceship bewegen zu lassen. Er sollte sich beim Klicken der grünen Fahne, aslo beim Starten des Spiels, hinter dem Spaceship verstecken. Deswegen fügten wir einen "go to Spaceship"- Block ein und geben ihm mit dem Block "hide" den Befehl sich am Anfang des Spiels hinter dem Raumschiff zu verstecken. Mit dem Drücken der Leertaste erscheint der Laser, der sich darauf hin in die Richtung (0) also nach oben bewegt. Mit dem "repeat until touching edge" grenzen wir die Bewegung ein, sodass der laser nicht mehr zu sehen ist, sobald er einen rand berührt.
+
 ![7](https://user-images.githubusercontent.com/31760549/35723047-1ab1f9ea-07f9-11e8-8d30-1b2cc6e23589.png)
+
 
 ![8](https://user-images.githubusercontent.com/31760549/35723144-7f7f6f6a-07f9-11e8-8c35-8551f5b362fe.png)
 
