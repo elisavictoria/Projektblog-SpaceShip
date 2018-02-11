@@ -31,7 +31,7 @@ Das Logo erscheint aufgrund des "If-Blocks", wenn der Spieler den Score 6 erreic
 
 Sobald der Spieler die bedingungen nicht erfüllen konnte, sollte das "Game over" Logo erscheinen. Dazu haben wir es so programmiert, dass es auftaucht sobald der Timer abgelaufen ist und sich quasi "zeigt". Dann soll alles gestoppt werden und das Spiel muss erneut gestartet werden. 
 
-<img width="1440" alt="bildschirmfoto 2018-02-11 um 17 56 08" src="https://user-images.githubusercontent.com/31760498/36075889-19d5e9ce-0f55-11e8-9367-9e9d653f3654.png">
+<img width="1440" alt="bildschirmfoto 2018-02-11 um 17 56 08" src="https://user-images.githubusercontent.com/31760498/36075922-93a0c940-0f55-11e8-836c-58efa41a50fc.png">
 
 
 5. Aliens
