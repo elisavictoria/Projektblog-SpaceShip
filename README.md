@@ -35,6 +35,6 @@ Die Aliens sollten sich bewegen, damit man sie mit dem Laser abschießen kann. D
 
 5. Bombe
 
-Sobald ein Alien von dem Laser getroffen wurde, soll er wie eine Bombe explodieren und nach einer Sekunde komplett verschwinden. 
+Sobald ein Alien von dem Laser getroffen wurde, soll er wie eine Bombe explodieren und nach einer Sekunde komplett verschwinden. Deshalb haben wir die Aliens so programmiert, dass sie ihr Kostüm wechseln wenn sie abgeschossen wurden. 
 
 
