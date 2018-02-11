@@ -1,6 +1,6 @@
 # Projektblog-SpaceShip
 
-Datei: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=SpaceShip
+SpaceShipGame: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=SpaceShip
 
 [Idee](#eins)
 
