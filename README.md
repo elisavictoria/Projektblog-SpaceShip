@@ -22,18 +22,23 @@ Den Laser zu programmieren, war ein wenig umfangreicher, als das Spaceship beweg
 
 3. Winner 
 
-Das "Winner"- Logo sollte erscheinen sobald, der Spieler die Bedingung erfüllt hat, alle Aliens in 10 min getötet zu haben. Davor soll es nicht zu sehen sein, das heißt beim Starten des Spiels muss es sich zunächst verstecken. 
+Das "Winner"- Logo sollte erscheinen sobald, der Spieler die Bedingung erfüllt hat, alle Aliens in 10 Sekunden getötet zu haben. Davor soll es nicht zu sehen sein, das heißt beim Starten des Spiels muss es sich zunächst verstecken. 
 Das Logo erscheint aufgrund des "If-Blocks", wenn der Spieler den Score 6 erreicht. Es könnte ja durchaus sein, dass der Spieler es in einer kürzeren Zeit schafft alle Aliens zu Töten. Wir können den Spielausgang also nicht im Zusammenhang mit dem Ablaufen des Timers programmieren.
 
 ![8](https://user-images.githubusercontent.com/31760549/35723144-7f7f6f6a-07f9-11e8-8c35-8551f5b362fe.png)
 
-4. Aliens
+4. Game over
+
+Sobald der Spieler die bedingungen nicht erfüllen konnte, sollte das "Game over" Logo erscheinen. Dazu haben wir es so programmiert, dass es auftaucht sobald der Timer abgelaufen ist und sich quasi "zeigt". Dann soll alles gestoppt werden und das Spiel muss erneut gestartet werden. 
+
+
+5. Aliens
 
 Die Aliens sollten sich bewegen, damit man sie mit dem Laser abschießen kann. Das ist auch das Ziel des Spiles. Dazu haben wir die Aliens so programmiert, dass sie sich auf einer bestimmten y Koordinate waagerecht in unterschiedlichen Geschwindigkeiten hin und herbewegen. Leider drehen sich die Aliens immer um 180° wenn sie von der Wand abprallen, allerdings konnten wir nicht die Ursache dafür finden und deshalb drehen sie sich immernoch.
 
 ![9](https://user-images.githubusercontent.com/31760549/35723142-7f6788f0-07f9-11e8-8d38-842d0f8526b7.png)
 
-5. Bombe
+6. Explosion
 
 Sobald ein Alien von dem Laser getroffen wurde, soll er wie eine Bombe explodieren und nach einer Sekunde komplett verschwinden. Deshalb haben wir die Aliens so programmiert, dass sie ihr Kostüm wechseln wenn sie abgeschossen wurden. 
 
