@@ -12,6 +12,13 @@ Datei: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavicto
 
 [3. Winner](#zwei.drei)
 
+[4. Game over](#zwei.vier)
+
+[5. Aliens](#zwei.fünf)
+
+[6. Explosion](#zwei.sechs)
+
+
 # Idee<a name="eins"></a>
 
 Aufgrund unterschiedlicher Recherche im Internet sind wir schließlich auf das klassische Spiel SpaceShip aus den 70ern gestoßen. Wir hatten schon am Anfang des Jahres den Wunsch geäußert ein eigenes Spiel zu programmieren. Der angebotene Onlinekurs The Beauty and Joy of Computing lehrte uns Grundlagen des Programms Snap. Allerdings brauchten wir für die einzelnen Aufgaben aufgrund von Verständnisschwierigkeiten etwas länger, sodass wir keine Lust mehr hatten nach den vorgegebenen Anleitungen zu arbeiten. Weil wir in dieser Einheit sowieso ein eigenes Projekt abgeben müssen, fingen wir an das Spiel selbst zu gestalten. Da wir durch den Kurs die Grundkenntnisse von Snap erlernt hatten, trauten wir uns die Aufgabe vom Schwierigkeitsgrad her zu. 
@@ -46,13 +53,13 @@ Sobald der Spieler die bedingungen nicht erfüllen konnte, sollte das "Game over
 <img width="1440" alt="bildschirmfoto 2018-02-11 um 17 56 08" src="https://user-images.githubusercontent.com/31760498/36075922-93a0c940-0f55-11e8-836c-58efa41a50fc.png">
 
 
-5. Aliens<a name="eins"></a>
+5. Aliens<a name="zwei.fünf"></a>
 
 Die Aliens sollten sich bewegen, damit man sie mit dem Laser abschießen kann. Das ist auch das Ziel des Spiles. Dazu haben wir die Aliens so programmiert, dass sie sich auf einer bestimmten y Koordinate waagerecht in unterschiedlichen Geschwindigkeiten hin und herbewegen. Leider drehen sich die Aliens immer um 180° wenn sie von der Wand abprallen, allerdings konnten wir nicht die Ursache dafür finden und deshalb drehen sie sich immernoch.
 
 ![9](https://user-images.githubusercontent.com/31760549/35723142-7f6788f0-07f9-11e8-8d38-842d0f8526b7.png)
 
-6. Explosion<a name="eins"></a>
+6. Explosion<a name="zwei.sechs"></a>
 
 Sobald ein Alien von dem Laser getroffen wurde, soll er wie eine Bombe explodieren und nach einer Sekunde komplett verschwinden. Deshalb haben wir die Aliens so programmiert, dass sie ihr Kostüm wechseln wenn sie abgeschossen wurden. 
 
