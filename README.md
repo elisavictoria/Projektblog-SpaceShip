@@ -18,6 +18,10 @@ Datei: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavicto
 
 [6. Explosion](#zwei.sechs)
 
+[Spielanleitung](#drei)
+
+[Fazit](#vier)
+
 
 # Idee<a name="eins"></a>
 
@@ -64,6 +68,11 @@ Die Aliens sollten sich bewegen, damit man sie mit dem Laser abschießen kann. D
 Sobald ein Alien von dem Laser getroffen wurde, soll er wie eine Bombe explodieren und nach einer Sekunde komplett verschwinden. Deshalb haben wir die Aliens so programmiert, dass sie ihr Kostüm wechseln wenn sie abgeschossen wurden. 
 
 
-# Spielanleitung<a name="eins"></a>
+# Spielanleitung<a name="drei"></a>
 
 Das Spiel ist sehr einfach zu spielen. Mit der Space Taste schießt das Spaceship Laser Kugeln ab. Um das Schiff zu bewegen, können die rechte und die linke Pfeiltaste benutzt werden. Damit ist es möglich in der vorgegebenen Zeit alle Aliens abzuschießen. 
+
+
+# Fazit<a name="vier"></a>
+
+Grundsätzlich hat das Programmieren des Spieles Spass gemacht, weil man bei jedem Zwischenschritt das "Neuprogrammierte" gleich ausprobieren konnte. Nachdem wir das Grundspiel programmiert hatten, haben wir angefangen kleine Verbesserungen einzufügen indem wir einen Timer eingerichtet haben. Außerdem haben wir das "Winner und Game over - Logo" eingefügt. Eigentlich wollten wir auch noch zwei Barrikaden für das Spaceship programmieren, weil wir uns gedacht haben, dass die aliens zurückschießen könnten. Dann wäre das Spaceship hinter diesen Barrikaden sicher vor den Lasern der Aliens gewesen, weil wenn die Laser der Aliens das Spacship berührt hätten, das Spiel nach drei verlorenen Leben vorbei gewesen wäre. Doch leider haben wir es zeitlich nicht geschafft unsere Ideen in die Realität umzusetzten. Wir würden auf jeden Fall weiter an dem Spiel arbeiten können und es noch weiter ausbauen. 
