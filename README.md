@@ -27,8 +27,14 @@ Das Logo erscheint aufgrund des "If-Blocks", wenn der Spieler den Score 6 erreic
 
 ![8](https://user-images.githubusercontent.com/31760549/35723144-7f7f6f6a-07f9-11e8-8c35-8551f5b362fe.png)
 
+4. Aliens
+
+Die Aliens sollten sich bewegen, damit man sie mit dem Laser abschießen kann. Das ist auch das Ziel des Spiles. Dazu haben wir die Aliens so programmiert, dass sie sich auf einer bestimmten y Koordinate waagerecht in unterschiedlichen Geschwindigkeiten hin und herbewegen. Leider drehen sich die Aliens immer um 180° wenn sie von der Wand abprallen, allerdings konnten wir nicht die Ursache dafür finden und deshalb drehen sie sich immernoch.
+
 ![9](https://user-images.githubusercontent.com/31760549/35723142-7f6788f0-07f9-11e8-8d38-842d0f8526b7.png)
 
+5. Bombe
 
+Sobald ein Alien von dem Laser getroffen wurde, soll er wie eine Bombe explodieren und nach einer Sekunde komplett verschwinden. 
 
 
