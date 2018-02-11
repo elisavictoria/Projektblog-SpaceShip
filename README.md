@@ -45,3 +45,6 @@ Die Aliens sollten sich bewegen, damit man sie mit dem Laser abschießen kann. D
 Sobald ein Alien von dem Laser getroffen wurde, soll er wie eine Bombe explodieren und nach einer Sekunde komplett verschwinden. Deshalb haben wir die Aliens so programmiert, dass sie ihr Kostüm wechseln wenn sie abgeschossen wurden. 
 
 
+# Spielanleitung
+
+Das Spiel ist sehr einfach zu spielen. Mit der Space Taste schießt das Spaceship Laser Kugeln ab. Um das Schiff zu bewegen, können die rechte und die linke Pfeiltaste benutzt werden. Damit ist es möglich in der vorgegebenen Zeit alle Aliens abzuschießen. 
